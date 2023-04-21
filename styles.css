@@ -44,7 +44,7 @@
 }
 
 
-/* Screen Size is from 0-600 i.e., smaller/mobile screen */
+
 @media only screen and (max-width: 600px){
     .navbar__menu_container .user_icon{
         display: flex;
